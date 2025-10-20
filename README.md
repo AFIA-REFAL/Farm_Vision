@@ -53,7 +53,7 @@ http://localhost:5173
 
 👩‍💻 Developer
 
-AFIA REFAL
+AFIA REFAL---
 B.Tech in Computer Science and Engineering
 
 Innovating at the intersection of AI and Agriculture 🌿
