@@ -1,4 +1,4 @@
-🌾 Farm Vision
+🌾 Farm Vision                                 
 
 Farm Vision is an AI-powered smart agriculture platform that brings innovation to modern farming.
 It helps visualize, analyze, and enhance agricultural processes using computer vision and intelligent automation.
