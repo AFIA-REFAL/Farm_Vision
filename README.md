@@ -4,7 +4,7 @@ Farm Vision is an AI-powered smart agriculture platform that brings innovation t
 It helps visualize, analyze, and enhance agricultural processes using computer vision and intelligent automation.
 Built with React, Tailwind CSS, and Vite, the app provides a fast, responsive, and elegant interface for users.
 
-🔗 Live App: farmvision.lovable.app
+🔗 Live App: farmvision.lovable.app  
 
 🚀 Features
 
