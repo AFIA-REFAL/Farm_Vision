@@ -29,7 +29,7 @@ Deployment	Lovable App Platform
 
 Clone this repository:
 
-git clone https://github.com/yourusername/farm-vision.git
+git clone https://github.com/AFIA-REFAL/Farm_Vision.git
 
 
 Move into the project folder:
